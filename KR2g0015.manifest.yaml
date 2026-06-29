@@ -1,0 +1,52 @@
+canonical_identifier: bkk:krp/KR2g0015/v1
+canonical_location: https://kanripo.org/bkk/KR2g0015/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 寧海將軍固山貝子功績錄
+  date: '2015-08-24 22:34:36.633383'
+  source:
+    repository: kanripo
+    path: KR2g0015
+  base_edition: WYG
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+editions:
+- short: WYG
+  label: 【四庫全書・文淵閣】
+assets:
+  parts:
+  - {seq: 0, filename: KR2g0015_000.yaml, hash: 'sha256:1a1298222753ddeef74b0c9d36b56d0509489d4a35d705bb7b527d8704e22cdf'}
+  - {seq: 1, filename: KR2g0015_001.yaml, hash: 'sha256:3afff494b0eebaa50bc81d088f9df3011f856dce7d99a84dd6305b613e8936dc'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR2g0015_000.markers.yaml, hash: 'sha256:d617e1afc63b78558ff33b4ae69692dfbdb129771f8c03f2c4c9c3cbecfc86da'}
+  - {seq: 1, role: markers, filename: assets/KR2g0015_001.markers.yaml, hash: 'sha256:051a0d9407e941f7250cf77e9da4e441efca36a80f6e12315eb378a942e11334'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR2g0015_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 482
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR2g0015_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 9441
+  label: 寧海將軍固山貝子功績錄
+  type: section
+  level: 1
+hash: sha256:179c0b32d09528d8092158a16937a2a5991dc8d780cf42a7838b87e6678d9236
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
