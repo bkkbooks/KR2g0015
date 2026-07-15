@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR2g0015/v1
 canonical_location: https://kanripo.org/bkk/KR2g0015/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 寧海將軍固山貝子功績錄
   date: '2015-08-24 22:34:36.633383'
@@ -20,11 +20,11 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR2g0015_000.yaml, hash: 'sha256:b601f20a13e24988faba375a320930c84555824cfe6a80d6d1eefd90c1ce25e2'}
-  - {seq: 1, filename: KR2g0015_001.yaml, hash: 'sha256:9579d295a1f611deb1cea45182fcd7b4ab7c63873480aedfde3933364e1e0124'}
+  - {seq: 0, filename: KR2g0015_000.yaml, hash: 'sha256:916121a5cff7cbdba25d39bd33f253fca26aa48fe78f0c04491d7d226fc1ffa2'}
+  - {seq: 1, filename: KR2g0015_001.yaml, hash: 'sha256:97c62ca240904ab1f2422f6e993d381ef7aea8028cef38a2f2293c6bd8c1679e'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2g0015_000.markers.yaml, hash: 'sha256:0e3c25ab6b2117aa1305bef00fd0901cac507b368ca51730a24a2446c6babea3'}
-  - {seq: 1, role: markers, filename: assets/KR2g0015_001.markers.yaml, hash: 'sha256:eda71df84f98bc929c3cbd9f4ceef01f02efb341edbbc0c885dd1d01beeb1fff'}
+  - {seq: 0, role: markers, filename: assets/KR2g0015_000.markers.yaml, hash: 'sha256:1c3c83ec90f8574ff1011383b52a059eefae8d6b00b269c453ab35fcbe76f3ff'}
+  - {seq: 1, role: markers, filename: assets/KR2g0015_001.markers.yaml, hash: 'sha256:c205a6c46775dd6d5e57afe965f32f4923895975cdd814965ab1ed8b3e2ba413'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,4 +46,7 @@ table_of_contents:
   label: 寧海將軍固山貝子功績錄
   type: section
   level: 1
-hash: sha256:f86c08d2a52a399237f8a5a7855e34ed65e6bd5fd0fcf68abe400451e5490cb6
+hash: sha256:2e4132c4d56788d64423248cb6a49f6968eccfa72684c901b901cba09be6dae6
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
