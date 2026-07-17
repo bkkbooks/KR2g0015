@@ -20,7 +20,7 @@ assets:
   - {seq: 0, filename: KR2g0015_000-WYG.yaml, hash: 'sha256:22bdfa3db781426261d68c5f56c2fccf2c63e7d2ca3adf45d5bdf763412db703'}
   - {seq: 1, filename: KR2g0015_001-WYG.yaml, hash: 'sha256:31800fd76bbaa7f421cd72b5ea37f7c546531d31389c9b030c21ae2767238923'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2g0015_000-WYG.markers.yaml, hash: 'sha256:3cf460ea09c4954d57aad2c7557c25744c96a773579797b709e373f0a81205f7'}
+  - {seq: 0, role: markers, filename: assets/KR2g0015_000-WYG.markers.yaml, hash: 'sha256:53a4136957562240006f88faf9939be87643cf1645507b4240f081bf8acbf51d'}
   - {seq: 1, role: markers, filename: assets/KR2g0015_001-WYG.markers.yaml, hash: 'sha256:6e7fd142c5aad5d2a7d1b1fda5477093d18d56f5f9677d390dc9f220f9b1347e'}
 table_of_contents:
 - ref:
@@ -43,4 +43,4 @@ table_of_contents:
   label: 寧海將軍固山貝子功績錄
   type: section
   level: 1
-hash: sha256:b077fd6d9b63983fd44a0d0dd1d6627da78df7e1909c8f4d55119876c3651ada
+hash: sha256:427634a36eeff949765ee8695d785ed6b6bf8bceaaee887cb90d88c6caaa8958
